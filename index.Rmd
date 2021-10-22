@@ -1,5 +1,5 @@
 --- 
-title: "אינדרס ספריות שימושיות"
+title: "אינדקס ספריות שימושיות"
 author: "אופיר בצר"
 date: "2021-10-22"
 site: bookdown::bookdown_site
