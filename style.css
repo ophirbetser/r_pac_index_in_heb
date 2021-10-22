@@ -12,3 +12,9 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+p, h1, h2, h3, h4 { text-align:right;}
+p, h1, h2, h3, h4 { direction: rtl;}
+
+li { text-align:right;}
+li { direction: rtl;}
