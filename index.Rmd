@@ -1,9 +1,15 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
-date: "`r Sys.Date()`"
+title: "אינדרס ספריות שימושיות"
+author: "אופיר בצר"
+date: "2021-10-22"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# מטרת הספר
+
+בלה בלה בלה
+
+## יצירת קשר
+
+בלה בלה בלה
 

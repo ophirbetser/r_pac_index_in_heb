@@ -1,1 +1,9 @@
-down-the-rabbit-hole
+מטרת-הספר
+יצירת-קשר
+pacman
+data.table
+dt
+lubridate
+openxlsx
+flexdashboard
+stringr
