@@ -1,6 +1,35 @@
 
 # DT
 
-בלה בלה בלה
+```{r}
+pacman::p_load(
+  tidyverse,
+  pacman,
+  DT
+)
+```
 
+```{r}
+iris %>% datatable()
+```
+
+
+```{r}
+dt_ <- function(df){
+  DT::datatable(
+  df, 
+  extensions = c('Buttons', 'ColReorder', 'Scroller'),
+  options = list(
+    dom = 'Brtip',
+    buttons = c('copy', 'csv', 'pdf', 'colvis'),
+    colReorder = list(realtime = FALSE),
+    scroller = F
+  )
+)
+}
+```
+
+```{r}
+iris %>% dt_
+```
 
