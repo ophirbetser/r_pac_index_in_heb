@@ -1,6 +1,12 @@
 
 # lubridate
 
-בלה בלה בלה
+## מקורות ידע שימושים
 
+- [דף הבית](https://lubridate.tidyverse.org/)
+- [נוסחאון](https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf)
 
+## מטרת הספריה
+
+ספריה שעושה את החיים קלים כאשר אנחנו צריכים לעבוד עם 
+**תאריכים**

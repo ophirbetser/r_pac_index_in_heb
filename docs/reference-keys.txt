@@ -13,8 +13,12 @@ data.table
 סינטקס
 dt
 lubridate
+מקורות-ידע-שימושים
+מטרת-הספריה-1
 openxlsx
 flexdashboard
+מקורות-ידע-שימושים-1
+מטרת-הספריה-2
 stringr
 visdat
 blogdown

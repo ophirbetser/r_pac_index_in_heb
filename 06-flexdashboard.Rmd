@@ -1,6 +1,12 @@
 
 # flexdashboard
 
-בלה בלה בלה
+## מקורות ידע שימושים
 
+- [דף הבית](https://pkgs.rstudio.com/flexdashboard/)
+- [מבני דף בסיסים](https://pkgs.rstudio.com/flexdashboard/articles/layouts.html)
 
+## מטרת הספריה
+
+יצירת דשבורשים בקלות ובגמישות. ניתן לשלב 
+shiny.
